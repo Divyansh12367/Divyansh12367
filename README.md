@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Divyansh Singh
 
-<!--
-**Divyansh12367/Divyansh12367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&width=435&lines=Aspiring+Frontend+Developer;BCA+Graduate;MCA+Student;Passionate+Learner" alt="Typing Animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💼 About Me
+I am an aspiring Frontend Developer with a strong foundation in computer applications. I have completed my **Bachelor of Computer Applications (BCA)** and am currently pursuing **Master of Computer Applications (MCA)**.
+
+I am passionate about building clean, responsive, and user-friendly web interfaces while continuously improving my technical skills.
+
+---
+
+## 🎓 Education
+- 🎓 BCA (Bachelor of Computer Applications) – Completed  
+- 🎓 MCA (Master of Computer Applications) – Pursuing  
+
+
+## 📫 Contact
+- 📧 Email: prateeksingh598008@gmail.com  
+-
